@@ -3,7 +3,8 @@ from gpiozero import AngularServo
 from time import sleep
 
 servo = AngularServo(
-    "WPI6", min_angle=0, max_angle=180, min_pulse_width=0.000544, max_pulse_width=0.0024
+    "WPI6", min_angle=0, max_angle=180,
+    min_pulse_width=0.000544, max_pulse_width=0.0024
 )
 
 # Шаг сервопривода
