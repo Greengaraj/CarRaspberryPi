@@ -1,3 +1,4 @@
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
 # CarRaspberryPi
 Репозиторий для учебного стенда автомобиль на Raspberry Pi.
 Для того что бы запустить код на автомобиле нобходимо проделать шаги описанные ниже.
