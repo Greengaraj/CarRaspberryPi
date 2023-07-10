@@ -1,4 +1,4 @@
-[![linting: flake8](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/flake8)
+[![linting: flake8](https://img.shields.io/badge/linting-flake8-yellowgreen)](https://github.com/PyCQA/flake8)
 # CarRaspberryPi
 Репозиторий для учебного стенда автомобиль на Raspberry Pi.
 Для того что бы запустить код на автомобиле нобходимо проделать шаги описанные ниже.
